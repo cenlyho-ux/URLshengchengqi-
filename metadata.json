@@ -1,0 +1,8 @@
+{
+  "name": "URL 快捷方式生成器",
+  "description": "从文本中批量提取链接，并生成可直接下载的本地 .url 快捷方式文件。",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
